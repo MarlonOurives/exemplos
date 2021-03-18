@@ -6,6 +6,7 @@ public class ExemploGit {
 
 		System.out.println("Hello Git");
 		System.out.println("Agora o pull");
+		System.out.println("Alterado novamente");
 
 	}
 
