@@ -8,6 +8,7 @@ public class ExemploGit {
 		System.out.println("Agora o pull");
 		System.out.println("Alterado novamente");
 		System.out.println("Olá Novamente");
+		//Editado dentro do github,á
 
 	}
 
